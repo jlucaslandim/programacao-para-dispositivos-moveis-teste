@@ -1,0 +1,2 @@
+para copilar: javac OutroNome.java
+para executar: java MeuPrograma // nome da class
